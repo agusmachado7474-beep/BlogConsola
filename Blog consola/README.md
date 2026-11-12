@@ -6,12 +6,12 @@ Funcionalidades Principales
 
 A través de un menú interactivo por consola, el sistema permite:
 
-Ver todos los posts: Lista las publicaciones cargadas mostrando su título, autor y estado.
-Buscar por título: Filtra publicaciones mediante coincidencias parciales o totales (sin distinguir mayúsculas o minúsculas).
-Filtrar por tag: Muestra únicamente los posts asociados a una etiqueta específica.
-Validar posts: Verifica que cada publicación cumpla con la estructura de datos requerida (claves obligatorias, tipos de datos, autor anidado y estado válido).
-Salir Finaliza la ejecución del programa de forma controlada.
-Estructura del Proyecto
+* Ver todos los posts: Lista las publicaciones cargadas mostrando su título, autor y estado.
+* Buscar por título: Filtra publicaciones mediante coincidencias parciales o totales (sin distinguir mayúsculas o minúsculas).
+* Filtrar por tag: Muestra únicamente los posts asociados a una etiqueta específica.
+* Validar posts: Verifica que cada publicación cumpla con la estructura de datos requerida (claves obligatorias, tipos de datos, autor anidado y estado válido).
+* Salir Finaliza la ejecución del programa de forma controlada.
+
 
 ## Estructura del proyecto
 
