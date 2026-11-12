@@ -1,8 +1,8 @@
-Sistema de Blog por Consola
+##Sistema de Blog por Consola
 
 Aplicación interactiva por consola desarrollada en Python que permite gestionar y consultar publicaciones de un blog. Este proyecto se realizo con el objetivo de crear una arquitectura modular utilizando paquetes, separación de responsabilidades e importaciones limpias.
 
-Funcionalidades Principales
+##Funcionalidades Principales
 
 A través de un menú interactivo por consola, el sistema permite:
 
