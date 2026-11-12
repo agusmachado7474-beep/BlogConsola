@@ -13,7 +13,8 @@ Validar posts: Verifica que cada publicación cumpla con la estructura de datos 
 Salir Finaliza la ejecución del programa de forma controlada.
 Estructura del Proyecto
 
-blog_consola/ 
+blog_consola/  
+
 │ 
 ├── main.py # Archivo principal de ejecución y orquestación  
 ├── README.md # Documentación del proyecto 
