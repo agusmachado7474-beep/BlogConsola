@@ -13,15 +13,14 @@ Validar posts: Verifica que cada publicación cumpla con la estructura de datos 
 Salir Finaliza la ejecución del programa de forma controlada.
 Estructura del Proyecto
 
-blog_consola/  
+## Estructura del proyecto
 
-│ 
-├── main.py # Archivo principal de ejecución y orquestación  
-├── README.md # Documentación del proyecto 
-│  
-└── blog/ # Paquete principal del sistema  
-  ├── init.py # Inicializador del paquete Python  
-  ├── datos.py # Estructuras de datos base del blog  
-  ├── menu.py # Interfaz por consola y captura de opciones 
-  ├── operaciones.py # Lógica de listado, búsqueda y filtrado 
-  └── validaciones.py # Reglas de validación de estructura y contenido
+* **blog_consola/** (Carpeta raíz del proyecto)
+  * `main.py`: Archivo principal de ejecución y orquestación.
+  * `README.md`: Documentación del proyecto.
+  * **blog/** (Paquete principal del sistema)
+    * `__init__.py`: Inicializador del paquete Python.
+    * `datos.py`: Estructuras de datos base del blog.
+    * `menu.py`: Interfaz por consola y captura de opciones.
+    * `operaciones.py`: Lógica de listado, búsqueda y filtrado.
+    * `validaciones.py`: Reglas de validación de estructura y contenido.
